@@ -1,0 +1,270 @@
+body{
+	padding: 0;
+	margin: 0;
+	box-sizing:border-box;
+}
+
+img{
+	width: 100%;
+}
+section{
+	overflow: hidden;
+	margin-bottom: 2em;
+}
+.logo{
+	font-size: x-large;
+	font-family: 'Raleway', sans-serif;
+	margin-left: 2.9em;
+}
+.link{
+	text-decoration: none;
+	color: black;
+	margin-left: 2.4em;
+}
+nav{
+	display: flex;
+	padding: 1em;
+	align-items: center;
+	justify-content: space-around;
+	margin-top: 1em;
+}
+
+.links{
+	display: flex;
+	font-family: 'Roboto Slab', serif;
+	width: 46%;
+	justify-content: flex-start;
+	font-weight: 400;
+}
+.container{
+	display: flex;
+	margin-left: 1em;
+	margin-top: 2em;
+}
+.left{
+	width: 50%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-content: flex-start;
+	flex-wrap: wrap;
+	align-items: center;
+}
+.right{
+	width: 50%;
+
+	width: 50%;
+	margin-top: -14em;
+	margin-left: 10em;
+}
+#main-img{
+	width: 115%;
+}
+.textContainer{
+	margin-left: 35%;
+}
+.heading{
+	font-size: 3em;
+	font-family: 'Raleway', sans-serif;
+	word-spacing: 3px;
+	letter-spacing: 0.2px;
+	margin-bottom: 0em;
+	margin-right: 1em;
+	line-height: 1.2;
+	margin-right: -2em;
+}
+.sub{
+	font-size: 1.2em;
+	font-family: 'Roboto Slab', serif;
+	line-height: 1.4;
+	margin-top: 1.2em;
+	width: 101%;
+}
+.btn{
+	padding: 0.7em;
+	background-color: #8f4a22 !important;
+	margin-left: 4px;
+	color: white !important;
+	border: none;
+	margin-top: 3% !important;
+	font-family: 'Raleway', sans-serif;
+}
+.highlight{
+
+  font-size: 1.3em;
+	font-family: 'Satisfy', cursive;
+	color: #8f4a22;;
+}
+.border{
+	left: 8em;
+    background-color: black;
+    width: 159px;
+    position: absolute;
+    height: 2px;
+    margin-top: -14px;
+}
+.image{
+	width: 50%;
+}
+
+.text{
+	width: 50%;
+	margin-top: 13%;
+	width: 50%;
+	width: 50%;
+	display: flex;
+	flex-direction: column;
+	margin-left: 5em;
+	align-items: flex-start;
+}
+.img{
+	height: 36em;
+	padding: 5em;
+}
+.about-img{
+	border-radius: 0px 0px 300px 300px;
+	height: 31em;
+	width: 26em;
+	/* margin-bottom: 4em; */
+	margin-left: 3em;
+}
+.benefitImg{
+	width: 50%;
+}
+.benefits{   
+	 width: 50%;
+	/* padding: 2em; */
+	margin-left: 2em;
+	margin-top: 2%;
+}
+.Bimg{
+	width: 100%;
+	height: 43em;
+	border-radius: 0px 0px 300px;
+	margin-top: 3em;
+}
+#benefits{
+	margin-bottom: 6em;
+}
+.Heading{
+	font-size: 2.2em;
+	font-family: 'Raleway', sans-serif;
+	word-spacing: 3px;
+	letter-spacing: 0.2px;
+	margin-bottom: 0em;
+	font-weight: 500;
+	margin-left: 27px;
+}
+.box{
+	width: 77%;
+	margin-left: 14%;
+	margin-bottom: 0em;
+	padding: 2em;
+}
+.box:hover{
+	background-color: #f5f5f552;
+	border-radius: 1em;
+	box-shadow: 1px -1px 40px 4px #bcb1a4;
+}
+.sub1{
+	font-size: 1em;
+	font-family: 'Roboto Slab', serif;
+	line-height: 1.4;
+	width: 78%;
+	MARGIN-LEFT: 4EM;
+}
+
+.head{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.svg{
+	font-size: 2em;
+}
+.MR{
+	margin-right: 48px;
+}
+.background{
+	background-color: #d2d0cfab;
+}
+.fam{
+	color: #8f4a22;;
+}
+.review{
+	display: flex;
+	padding: 6em;
+
+	margin-top: -3em;
+	padding-left: 9em;
+	padding-right: 11em;
+	margin-bottom: -3em;
+}
+.d-block {
+	display: block!important;
+	width: 10em;
+	border-radius: 10em;
+	margin-right: 1em;
+	margin-left: 2em;
+}
+
+
+.carousel-control-next, 
+.carousel-control-prev {
+	
+	width: 9% !important;
+	border-radius: 0.3em;
+}
+.testimonials{
+	background-color: #b2826630 !important;
+	margin-top: -5em;
+}
+.arrow{
+	color: black;
+	font-size: 1.4em;
+
+
+}
+.title{
+	padding-top: 1em;
+	text-align: center;
+	margin-bottom: -1em;
+	
+	font-family: 'Raleway', sans-serif;
+}
+.line{
+	background-color: black;
+	width: 10em;
+	height: 0.2px;
+	margin-left: 33em;
+	margin-top: 1.7em;
+}
+.para{
+	margin-top: 3em;
+}
+.footer{
+	display: flex;
+	
+	padding: 1em;
+}
+.flinks{
+	display: flex;
+	justify-content: space-around;
+	width: 80%;
+	font-size: 17px;
+}
+.tagline{
+	width: 30%;
+	padding: 1em;
+}
+.block1{
+	text-align: center;
+	width: 14%;
+}
+.tag{
+	font-size: 19px;
+}
+.icons{
+	display: flex;
+	justify-content: space-evenly;
+}
